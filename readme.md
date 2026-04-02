@@ -34,7 +34,7 @@ Academic projects
 Ensure macros are enabled if the dashboard includes automation.
 Do not modify raw data sheets unless necessary.
 👤 Author
-Your Name Here
+tirth virani
 📄 License
 
 This project is for educational and personal use.
